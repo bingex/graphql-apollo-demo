@@ -1,0 +1,11 @@
+body {
+	font-size: 18px;
+}
+
+.item {
+	padding-bottom: 15px;
+}
+
+.item__name {
+	color: #cccccc;
+}
